@@ -129,9 +129,9 @@ function Divider() {
         </path>
         <defs>
           <linearGradient id="dv" x1="0" y1="0" x2="1" y2="0">
-            <stop offset="0" stopColor="#2dd4bf" stopOpacity="0" />
-            <stop offset="0.5" stopColor="#a855f7" />
-            <stop offset="1" stopColor="#fb7185" stopOpacity="0" />
+            <stop offset="0" stopColor="#e5e9f0" stopOpacity="0" />
+            <stop offset="0.5" stopColor="#9aa3b2" />
+            <stop offset="1" stopColor="#cbd3e1" stopOpacity="0" />
           </linearGradient>
         </defs>
       </svg>
@@ -209,7 +209,7 @@ function BackToTop({ progress }) {
           strokeDasharray={c} strokeDashoffset={c * (1 - progress)} transform="rotate(-90 24 24)" />
         <defs>
           <linearGradient id="tt" x1="0" y1="0" x2="1" y2="1">
-            <stop offset="0" stopColor="#2dd4bf" /><stop offset="1" stopColor="#a855f7" />
+            <stop offset="0" stopColor="#e5e9f0" /><stop offset="1" stopColor="#9aa3b2" />
           </linearGradient>
         </defs>
       </svg>

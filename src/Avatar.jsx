@@ -26,13 +26,13 @@ export default function AnimatedAvatar() {
             <stop offset="1" stopColor="#171a24" />
           </linearGradient>
           <linearGradient id="av-stroke" x1="0" y1="0" x2="1" y2="1">
-            <stop offset="0" stopColor="#2dd4bf" />
-            <stop offset="0.5" stopColor="#a855f7" />
-            <stop offset="1" stopColor="#fb7185" />
+            <stop offset="0" stopColor="#e5e9f0" />
+            <stop offset="0.5" stopColor="#9aa3b2" />
+            <stop offset="1" stopColor="#cbd3e1" />
           </linearGradient>
           <radialGradient id="av-aura" cx="50%" cy="42%" r="60%">
-            <stop offset="0" stopColor="#a855f7" stopOpacity="0.35" />
-            <stop offset="1" stopColor="#a855f7" stopOpacity="0" />
+            <stop offset="0" stopColor="#9aa3b2" stopOpacity="0.35" />
+            <stop offset="1" stopColor="#9aa3b2" stopOpacity="0" />
           </radialGradient>
           <clipPath id="av-clip"><circle cx="130" cy="150" r="118" /></clipPath>
         </defs>

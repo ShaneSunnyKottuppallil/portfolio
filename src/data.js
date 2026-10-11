@@ -178,13 +178,13 @@ export const education = [
 ];
 
 export const certifications = [
-  { name: 'AWS Certified Cloud Practitioner', short: 'Cloud Practitioner', issuer: 'Amazon Web Services', abbr: 'AWS', icon: 'cloud', accent: '#ff9900', featured: true },
-  { name: 'GitHub Foundations', short: 'GitHub Foundations', issuer: 'GitHub', abbr: 'GH', icon: 'git', accent: '#a855f7', featured: true },
-  { name: 'Cloud Computing', short: 'Cloud Computing', issuer: 'NPTEL', abbr: 'N', icon: 'server', accent: '#2dd4bf' },
-  { name: 'Database Systems', short: 'Database Systems', issuer: 'NPTEL', abbr: 'N', icon: 'database', accent: '#2dd4bf' },
-  { name: 'Computer Architecture', short: 'Computer Architecture', issuer: 'NPTEL', abbr: 'N', icon: 'chart', accent: '#2dd4bf' },
-  { name: 'HTML, CSS & JavaScript for Web Developers', short: 'Web Development', issuer: 'Coursera', abbr: 'C', icon: 'terminal', accent: '#3b82f6' },
-  { name: 'Introduction to Databases', short: 'Intro to Databases', issuer: 'Coursera', abbr: 'C', icon: 'database', accent: '#3b82f6' },
+  { name: 'AWS Certified Cloud Practitioner', short: 'Cloud Practitioner', issuer: 'Amazon Web Services', abbr: 'AWS', icon: 'cloud', accent: '#e5e9f0', featured: true },
+  { name: 'GitHub Foundations', short: 'GitHub Foundations', issuer: 'GitHub', abbr: 'GH', icon: 'git', accent: '#9aa3b2', featured: true },
+  { name: 'Cloud Computing', short: 'Cloud Computing', issuer: 'NPTEL', abbr: 'N', icon: 'server', accent: '#e5e9f0' },
+  { name: 'Database Systems', short: 'Database Systems', issuer: 'NPTEL', abbr: 'N', icon: 'database', accent: '#e5e9f0' },
+  { name: 'Computer Architecture', short: 'Computer Architecture', issuer: 'NPTEL', abbr: 'N', icon: 'chart', accent: '#e5e9f0' },
+  { name: 'HTML, CSS & JavaScript for Web Developers', short: 'Web Development', issuer: 'Coursera', abbr: 'C', icon: 'terminal', accent: '#9aa3b2' },
+  { name: 'Introduction to Databases', short: 'Intro to Databases', issuer: 'Coursera', abbr: 'C', icon: 'database', accent: '#9aa3b2' },
 ];
 
 export const achievements = [

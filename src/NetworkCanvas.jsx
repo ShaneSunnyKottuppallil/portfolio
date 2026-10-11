@@ -14,7 +14,7 @@ export default function NetworkCanvas() {
     let W = 0, H = 0, dpr = Math.min(window.devicePixelRatio || 1, 2);
     const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-    const colors = ['#2dd4bf', '#a855f7', '#fb7185'];
+    const colors = ['#e5e9f0', '#9aa3b2', '#cbd3e1'];
     let nodes = [];
     let pulses = [];
 
